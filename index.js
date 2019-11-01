@@ -14,7 +14,7 @@ let main = document.querySelector("#main");
 let about = document.querySelector("#about");
 let contact = document.querySelector("#contact");
 main.insertBefore (about,contact);
-console.log(about);
+
 
 //texten till p tag
 about.innerHTML="";
